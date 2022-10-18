@@ -1,7 +1,3 @@
-<div id = myProfilebox><img
-    src = "./01images/myprofile/myimg1-1x.jpg"
-/></div>
-
 
 ## About me...
 - 👋 Hi, My name is Lee Yeonjun.  
@@ -22,18 +18,3 @@ leeyeonjun85/leeyeonjun85 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-
-
-<style>
-#myProfilebox {
-    width: 200px;
-    margin: 0px auto 0px 50px;
-}
-
-#myProfilebox img {
-    padding: 1px
-    border: 2px solid #111;
-    border-radius: 200px;
-    box-shadow: 5px 5px 10px #111;
-}
-</style>
