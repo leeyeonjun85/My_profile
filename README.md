@@ -1,5 +1,6 @@
-My img
-![myprofileimage](https://lh3.google.com/u/1/d/16DH1vSMI5drKb1cNcnME0yCWRpZdMuTP=w1920-h865-iv1)
+<div id = myProfilebox><img
+    src = "./01images/myprofile/myimg1-1x.jpg"
+/></div>
 
 
 ## About me...
@@ -14,9 +15,25 @@ My img
 - [My profile](https://github.com/leeyeonjun85)
 - [My homepage](https://leeyeonjun85.github.io/home/)
 - [Development Log](./mdpages/Development%20Log.md)
-- e-mail : leeyeonjun85@gmail.com.
+- e-mail : leeyeonjun85@gmail.com
 
 <!---
 leeyeonjun85/leeyeonjun85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+
+<style>
+#myProfilebox {
+    width: 200px;
+    margin: 0px auto 0px 50px;
+}
+
+#myProfilebox img {
+    padding: 1px
+    border: 2px solid #111;
+    border-radius: 200px;
+    box-shadow: 5px 5px 10px #111;
+}
+</style>
