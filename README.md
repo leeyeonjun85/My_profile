@@ -1,3 +1,7 @@
+My img
+![myprofileimage](https://lh3.google.com/u/1/d/16DH1vSMI5drKb1cNcnME0yCWRpZdMuTP=w1920-h865-iv1)
+
+
 ## About me...
 - 👋 Hi, My name is Lee Yeonjun.  
 - I live in Asan City, Korea.  
@@ -7,6 +11,7 @@
 - 🌱 I’m currently learning web, css, javascript.
 
 ## My Links...
+- [My profile](https://github.com/leeyeonjun85)
 - [My homepage](https://leeyeonjun85.github.io/home/)
 - [Development Log](./mdpages/Development%20Log.md)
 - e-mail : leeyeonjun85@gmail.com.
