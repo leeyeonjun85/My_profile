@@ -10,7 +10,7 @@
 ## My Links...
 - [My profile](https://github.com/leeyeonjun85)
 - [My homepage](https://leeyeonjun85.github.io/home/)
-- [Development Log](./mdpages/Development%20Log.md)
+- [Development Log](https://github.com/leeyeonjun85/home/blob/main/mdpages/Development%20Log.md)
 - e-mail : leeyeonjun85@gmail.com
 
 <!---
