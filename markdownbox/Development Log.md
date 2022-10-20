@@ -7,7 +7,7 @@
 
 ## 나의 코딩공부
 - [Mark Donw](./Mark%20Down.md)
-- [git](./git.md)
+- [git](./Git.md)
 - [HTML](./HTML.md)
 - [CSS](./CSS.md)
 - [JavaScript](./JavaScript.md)
