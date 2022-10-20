@@ -47,6 +47,13 @@ ___
   - Windows 사용자는 F12를 눌러 개발자 도구를 열 수 있습니다. Mac 사용자는 Chrome에선 Cmd+Opt+J, Safari에선 Cmd+Opt+C를 누르면 됩니다. Safari는 개발자 메뉴를 활성화 해 줘야 개발자 도구를 사용할 수 있습니다.
 
 ## ['생활코딩'](https://opentutorials.org/course/3083)에서 node.js 공부하기
+- Node.js - 설치
+- JavaScript - Data type - Number
+- JavaScript - Data type - String
+- JavaScript - 변수
+  - [작은 오류](..\coding\vscode_prac01.md) 발생! : 해결 함
+- JavaScript - Template Literal
+- Node.js - URL로 입력된 값 사용하기
 
 
 
