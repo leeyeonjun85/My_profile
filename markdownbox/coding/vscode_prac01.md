@@ -3,7 +3,7 @@
 ## 에러 상황
 - 생활코딩에서 egoing님의 [node.js 수업](https://opentutorials.org/course/3332/21034)을 듣고 있었음
 - egoing은 아톰을 쓰지만, 나는 vscode가 편해서 vscode로 수업을 듣고 있었음
-- 1행에서 변수 name을 지정하고, 3행에서 변수 letter를 지정하는 상황에서 이미 지정한 name 변수를 letter로 불러오와서 letter변수를 지정하였음
+- 1행에서 변수 name을 지정하고, 3행에서 변수 letter를 지정하는 상황에서 이미 지정한 name 변수를 letter로 불러와서 letter변수를 지정하였음
 - 3행에서 불러온 name이 작은 오류가 생김
   - 'name'은(는) 사용되지 않습니다.ts(6385) lib.dom.d.ts(17642, 5): 선언이 여기에 사용되지 않음으로 표시되었습니다.
 ![20221020_142609.jpg](../../01images/error/20221020_142609.jpg)
