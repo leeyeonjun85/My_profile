@@ -54,6 +54,9 @@ ___
   - [작은 오류](..\coding\vscode_prac01.md) 발생! : 해결 함
 - JavaScript - Template Literal
 - Node.js - URL로 입력된 값 사용하기
+- App - 동적인 웹페이지 만들기
+- Node.js - 파일 읽기
+- App - 파일을 이용해 본문 구현
 
 
 
