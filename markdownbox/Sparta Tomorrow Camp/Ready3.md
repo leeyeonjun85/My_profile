@@ -47,7 +47,10 @@ ___
   - Windows 사용자는 F12를 눌러 개발자 도구를 열 수 있습니다. Mac 사용자는 Chrome에선 Cmd+Opt+J, Safari에선 Cmd+Opt+C를 누르면 됩니다. Safari는 개발자 메뉴를 활성화 해 줘야 개발자 도구를 사용할 수 있습니다.
 
 ## ['생활코딩'](https://opentutorials.org/course/3083)에서 node.js 공부하기
+### [생활코딩 : node.js 연습한 나의 github 바로가기](https://github.com/leeyeonjun85/prac01)
 - Node.js - 설치
+- Node.js 공부방법
+- Node.js - 웹서버 만들기
 - JavaScript - Data type - Number
 - JavaScript - Data type - String
 - JavaScript - 변수
@@ -57,6 +60,31 @@ ___
 - App - 동적인 웹페이지 만들기
 - Node.js - 파일 읽기
 - App - 파일을 이용해 본문 구현
+- JavaScript - Boolean
+- JavaScript - 비교 연산자
+- JavaScript - 제어문
+- JavaScript - 조건문
+- Node.js - 콘솔에서의 입력값
+- App - Not found 오류 구현
+- App - 홈페이지 구현
+- JavaScript - 반복문
+- JavaScript - 배열
+- JavaScript - 배열과 반복문
+- Node.js - 파일 목록 알아내기
+- App - 글목록 출력하기
+- JavaScript - 함수의 기본 문법
+- JavaScript - 함수의 입력
+- JavaScript - 함수의 출력
+- App - 함수를 이용해서 정리 정돈하기
+- 수업의 정상
+- Node.js - 동기와 비동기 그리고 콜백
+- Node.js - 패키지 매니저와 PM2
+- HTML - Form
+  - 글쓰기를 할 때 form태그에서 method="post" 꼭 추가하기
+  - 안하면 url에 정보가 그대로 노출 되는 문제가 발생함
+- App - 글생성 UI 만들기
+- App - POST 방식으로 전송된 데이터 받기
+- App - 파일생성과 리다이렉션
 
 
 
