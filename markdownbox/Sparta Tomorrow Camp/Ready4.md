@@ -8,13 +8,15 @@ ___
 ## '생활코딩'에서 mysql 공부하기
 - bitnami를 사용하여 윈도우에 mysql설치
   - 터미널에서 mysql 설치폴더로 이동
-  - c: cd C:\Bitnami\wampstack-8.1.11-0\mariadb\bin
+  - c:
+  - cd C:\Bitnami\wampstack-8.1.11-0\mariadb\bin
   - mysql -uroot -p
 - mysql 명령어
   - create database 이름;
   - drop database 이름;
   - show databases;
   - use 이름;
+  - 도움말 : \h , \? , 나가기 : \q , 
 
 
 ## '연준이의 코딩 연습실'
